@@ -36,21 +36,20 @@ In Zombie Home Defender, your goal is to protect your home from incoming zombies
 
 ## Game Controls
 
-- **Arrow Keys**:
-  - `Left Arrow`: Move the player left.
-  - `Right Arrow`: Move the player right.
+- `Left Arrow Key`: Move the player left.
+- `Right Arrow Key`: Move the player right.
 
-- **Space Bar**: Shoot bullets to kill zombies.
+- `Space Bar`: Shoot bullets to kill zombies.
 
-- **B Key**: Place a barricade in the current lane.
+- `B Key`: Place a barricade in the current lane.
 
-- **Z Key**: Open the shop.
+- `Z Key`: Open the shop.
 
-- **X Key**: Exit the shop.
+- `X Key`: Exit the shop.
 
-- **Enter/Return Key**: Start the game.
+- `Enter`/`Return Key`: Start the game.
 
-- **Escape Key**: Exit the game.
+- `Escape Key`: Exit the game.
 
 ## Credits
 
