@@ -54,3 +54,7 @@ In Zombie Home Defender, your goal is to protect your home from incoming zombies
 ## Credits
 
 Zombie Home Defender was developed using the [Gosu library](https://www.libgosu.org/index.html) for Ruby. Thank you for playing!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
