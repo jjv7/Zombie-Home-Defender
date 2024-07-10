@@ -11,7 +11,9 @@ To play Zombie Home Defender, follow these steps:
    ```sh
    gem install gosu
 
-3. **Download the Game**: Clone this repository or download the source code files.
+3. **Download the Game**: Clone this repository or download the source code files:
+   ```bash
+   git clone https://github.com/jjv7/Zombie-Home-Defender.git
 
 4. **Run the Game**: Navigate to the directory containing the game files and run:
    ```sh
@@ -46,8 +48,6 @@ In Zombie Home Defender, your goal is to protect your home from incoming zombies
 - `Z Key`: Open the shop.
 
 - `X Key`: Exit the shop.
-
-- `Enter`/`Return Key`: Start the game.
 
 - `Escape Key`: Exit the game.
 
